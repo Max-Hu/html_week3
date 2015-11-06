@@ -95,29 +95,27 @@ html {
   margin: 0 auto;
 }
 
-/* line 32, ../sass/style.scss */
 .search-button {
   position: absolute;
   top: 23px;
   right: -115px;
 }
 
-/* line 39, ../sass/style.scss */
 .top_bar ul {
   font-size: 1.5em;
   color: white;
 }
-/* line 41, ../sass/style.scss */
+
 .top_bar ul li {
   margin-top: 30px;
 }
-/* line 45, ../sass/style.scss */
+
 .tb1{
   margin-left: 60px;
   float: left;
   font-size: 2.5em;
 }
-/* line 49, ../sass/style.scss */
+
 .tb3 {
   border: 1px solid white;
   float: right;
@@ -127,7 +125,7 @@ html {
   padding: 10px 0 0 0;
   margin-right: -200px;
 }
-/* line 59, ../sass/style.scss */
+
 .tb2 {
   position:relative;
   margin-right: 200px;
@@ -135,23 +133,23 @@ html {
   float: right;
 }
 
-/* line 66, ../sass/style.scss */
+
 .agent_top {
   text-align: center;
   padding-top: 200px;
   line-height: 2;
 }
-/* line 70, ../sass/style.scss */
+
 .agent_top h1 {
   font-size: 2.5em;
   color: white;
 }
-/* line 74, ../sass/style.scss */
+
 .agent_top p {
   font-size: 1.0em;
   color: white;
 }
-/* line 78, ../sass/style.scss */
+
 .agent_top input {
   margin-top: 20px;
   width: 400px;
@@ -163,7 +161,7 @@ html {
   border-top-left-radius: 3px;
   border: none;
 }
-/* line 90, ../sass/style.scss */
+
 .agent_top button {
   width: 100px;
   height: 49px;
@@ -454,7 +452,6 @@ html {
   margin-top: 10px;
   margin-bottom: 10px;
 }
-/* line 293, ../sass/style.scss */
 .content .recent .text .image {
   width: 400px;
   height: 60px;
@@ -467,7 +464,7 @@ html {
   position: relative;
   top: 110px;
   margin-left: 317px;
-  /*margin-right: 500px;*/
+
   width: 500px;
   overflow: hidden;
   padding-bottom: 120px;
@@ -503,20 +500,20 @@ html {
   margin-left: 161px;
   width: 900px;
 }
-/* line 334, ../sass/style.scss */
+
 .bottom-agent span {
   font-size: 22px;
   color: white;
   margin-right: 4px;
   margin-left: 88px;
 }
-/* line 340, ../sass/style.scss */
+
 .bottom-agent div {
   width: 60%;
   margin: 0 auto;
   padding-top: 107px;
 }
-/* line 344, ../sass/style.scss */
+
 .bottom-agent div input {
   margin-top: 15px;
   width: 515px;
@@ -528,7 +525,7 @@ html {
   border-top-left-radius: 5px;
   border: none;
 }
-/* line 356, ../sass/style.scss */
+
 .bottom-agent div button {
   width: 111px;
   height: 54px;
@@ -543,34 +540,34 @@ html {
   border-top-right-radius: 5px;
 }
 
-/* line 371, ../sass/style.scss */
+
 .footer {
   height: 50px;
   width: 100%;
   margin: 0 auto;
   background: whitesmoke;
 }
-/* line 378, ../sass/style.scss */
+
 .footer ul {
   text-decoration: none;
   padding-top: 20px;
   padding-left: 100px;
 }
-/* line 382, ../sass/style.scss */
+
 .footer ul li {
   float: left;
   color: #909090;
   font-size: 15px;
   margin-left: 30px;
 }
-/* line 387, ../sass/style.scss */
+
 .footer_icon1 {
   margin-left: 964px;
   margin-top: -33px;
   width: 30px;
   height: 30px;
 }
-/* line 391, ../sass/style.scss */
+
 .footer_icon2 {
   margin-top: -33px;
   margin-left: -20px;
